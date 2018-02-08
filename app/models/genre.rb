@@ -12,7 +12,9 @@ end
 
   def all_artist_names
     names = []
-    self.artists.map { |a| }
+    self.artists.map { |a|
+
+    }
 
     names
   end
